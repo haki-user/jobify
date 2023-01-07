@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#I added
+mern-course-jobify
+
 # dependencies
 /node_modules
 /.pnp
